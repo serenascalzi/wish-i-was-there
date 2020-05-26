@@ -151,10 +151,10 @@ header a {
 	width: 100%;
 	box-sizing: border-box;
 	background-image: url(../images/ameer-basheer-4xKm7qT_RMM-unsplash.jpg);
-	height: 400px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 400px;
 }
 
 .main-area {
