@@ -123,13 +123,12 @@ header a {
 @media screen and (max-width: 768px) {
 	.site-nav li {
 		margin-right: 0;
-		width: 33.332%;
+		width: 50%;
 	}
 
 	.site-nav a {
 		margin: 0 5px 5px 0;
-		padding: 5px 0;
-		font-size: 80%;
+		padding: 5px 10px;
 		text-align: center;
 		border-radius: 5px;
 	}
